@@ -1,0 +1,4 @@
+node_modules/
+dist/
+.codex-roles/
+.DS_Store
